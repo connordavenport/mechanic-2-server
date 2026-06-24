@@ -1,0 +1,15 @@
+description: Spaceport is a place where multiple, unrelated UFOs can be spaced, kerned and interpolated concurrently. Built with Vincent Chan.
+developer: Connor Davenport
+developerURL: http://programme.tools
+extensionName: Spaceport
+extensionPath: Spaceport.roboFontExt
+repository: https://github.com/connordavenport/spaceport-ext
+infoPath: https://raw.githubusercontent.com/connordavenport/spaceport-ext/master/info.yaml
+zipPath: https://github.com/connordavenport/spaceport-ext/releases/latest/download/Spaceport.roboFontExt.zip
+icon: https://raw.githubusercontent.com/connordavenport/spaceport-ext/master/images/spaceport-mechanic-icon.png
+tags:
+- interpolation
+- spacing
+- kerning
+- metrics
+dateAdded: 2026-06-24 16:34:20
